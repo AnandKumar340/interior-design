@@ -14136,7 +14136,12 @@ ul a.rsswidget {
         font-size: 36px;
         letter-spacing: 3px;
         line-height: 40px;
-        margin-bottom: 20px; } }
+        margin-bottom: 20px; 
+	  color: #fff;
+}} }
+.banner-content{
+	color : #fff;
+}
   @media only screen and (max-width: 991px) {
     .silder-one .silder-content {
       padding: 30px; }
